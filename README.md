@@ -2,6 +2,17 @@
 
 ## Project Overview
 This Power BI dashboard provides insights into employee performance, salary distribution, department-wise analysis, and workforce trends.
+## Dataset
+
+Dataset File: [HR_Analytics_Data.xlsx](HR_Analytics_Data.xlsx)
+The dataset contains:
+- Employee ID
+- Employee Name
+- Department
+- City
+- Salary
+- Performance Score
+- Performance Status
 
 ## Key Objectives
 - Analyze employee performance across departments.
