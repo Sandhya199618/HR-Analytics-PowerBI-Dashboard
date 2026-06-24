@@ -24,6 +24,7 @@ This Power BI dashboard provides insights into employee performance, salary dist
 - Data Visualization
 
 ## Dashboard Preview
+The following image shows the final HR Analytics Dashboard created in Power BI.
 
 ![HR Dashboard](./HR_Analytics_Dashboard_Final.jpeg.jpeg)
 ## Insights
