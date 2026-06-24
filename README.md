@@ -15,7 +15,7 @@ The dataset contains:
 - Performance Status
 
 ## Key Objectives
-- Analyze employee performance across departments.
+- Analyse employee performance across departments.
 - Compare salary distribution by department.
 - Monitor workforce distribution by city.
 - Track high performers and employees needing improvement.
@@ -32,7 +32,7 @@ The dataset contains:
 ## Tools Used
 - Power BI
 - Microsoft Excel
-- Data Visualization
+- Data Visualisation
 
 ## Dashboard Preview
 The following image shows the final HR Analytics Dashboard created in Power BI.
