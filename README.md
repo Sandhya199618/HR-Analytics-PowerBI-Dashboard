@@ -25,7 +25,7 @@ This Power BI dashboard provides insights into employee performance, salary dist
 
 ## Dashboard Preview
 
-![HR Dashboard](./HR%20Analytics%20Dashboard.jpeg)
+![HR Dashboard](./HR_Analytics_Dashboard_Final.jpeg.jpeg)
 ## Insights
 - Finance department has the highest salary distribution.
 - IT and Finance show strong performance scores.
