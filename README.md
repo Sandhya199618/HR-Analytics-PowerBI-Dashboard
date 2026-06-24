@@ -34,6 +34,6 @@ The following image shows the final HR Analytics Dashboard created in Power BI.
 - Majority of employees are categorized as High Performers.
 
 ## Created by 
-Sandhya Donikana
+Sandhya rani  Donikana
 
 Email: sandhyadonikana@gmail.com
